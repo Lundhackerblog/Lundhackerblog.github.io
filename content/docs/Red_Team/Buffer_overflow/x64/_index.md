@@ -1,7 +1,7 @@
 ---
 title: X64 bits
 type: docs
-weight: 8
+weight: 1
 sidebar:
   open: false
 ---

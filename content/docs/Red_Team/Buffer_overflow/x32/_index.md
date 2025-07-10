@@ -1,7 +1,7 @@
 ---
 title: X32 bits / X84 
 type: docs
-weight: 8
+weight: 1
 sidebar:
   open: false
 ---
