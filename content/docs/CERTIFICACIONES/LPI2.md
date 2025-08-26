@@ -9,12 +9,14 @@ prev: docs/CERTIFICACIONES/
 Certificación avanzada para ingenieros de sistemas Linux con capacidades empresariales.
 
 ### Exámenes
+
 - **201-450**: Capacity Planning
 - **202-450**: Linux Security
 
 ### Temas principales
 
 **Examen 201-450:**
+
 - Planificación de capacidad
 - Kernel de Linux
 - Arranque del sistema
@@ -23,6 +25,7 @@ Certificación avanzada para ingenieros de sistemas Linux con capacidades empres
 - Mantenimiento del sistema
 
 **Examen 202-450:**
+
 - Seguridad del sistema
 - Seguridad de host
 - Seguridad de red
@@ -30,8 +33,10 @@ Certificación avanzada para ingenieros de sistemas Linux con capacidades empres
 - Detección de intrusiones
 
 ### Requisitos
+
 - Tener LPIC-1 activo
 - Experiencia práctica con Linux
 
 ## Preguntas frecuentes
+
 *Próximamente se añadirán preguntas de práctica para esta certificación.*
