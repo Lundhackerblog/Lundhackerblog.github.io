@@ -19,5 +19,5 @@ ESTE APARTADO SE ENCONTRADA CON PREGUNTAS SOBRE CERTIFICACIONES.
   {{< card link="eJPTv2" title="eJPT v2 - eLearnSecurity Junior Penetration Tester" icon="lock-closed" >}}
   {{< card link="Docker" title="Docker Certified Associate" icon="cube" >}}
   {{< card link="DockerCompose" title="Docker Compose" icon="cog" >}}
-  {{< card link="PCI-DSS" title="PCI DSS v4.0" icon="shield-check-exclamation" >}}
+  {{< card link="PCI-DSS" title="PCI DSS v4.0" icon="cube" >}}
 {{< /cards >}}
